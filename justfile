@@ -60,10 +60,7 @@ map-check:
     python3 tools/map.py --check
 
 # Repository conformance, read-only.
-doctor: doctor-repo doctor-toolchain
-
-doctor-repo:
-    kontor doctor
+doctor: doctor-toolchain
 
 doctor-toolchain:
     python3 tools/doctor.py
