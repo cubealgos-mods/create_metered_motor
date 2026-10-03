@@ -35,7 +35,7 @@ block.
 ## Business context
 
 No business model, no revenue, no telemetry. Published on Modrinth under MIT, source on the
-cubealgos Forgejo with a GitHub mirror and tracker (`decisions/DEC-003-licence.md`). Support is a
+GitHub under `cubealgos-mods`, with the issue tracker there (`decisions/DEC-003-licence.md`). Support is a
 public issue tracker and nothing more.
 
 ## What it will not do
