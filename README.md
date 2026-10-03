@@ -9,9 +9,9 @@ stress its network actually demands.
 Requires Minecraft 26.2, Fabric Loader, Fabric API and Create Fly. MIT (LICENSE); credits in NOTICE.
 Releases carry the jar and its SHA-256 in the notes; see CHANGELOG.md for what each version holds.
 
-Support and security reports go through the issue tracker only (SUPPORT.md): https://github.com/cubealgos/create_metered_motor/issues.
+Support and security reports go through the issue tracker only (SUPPORT.md): https://github.com/cubealgos-mods/create_metered_motor/issues.
 
-Source: https://git.cubealgos.de/cubealgos/create_metered_motor (Forgejo, the home of this repository). Mirror: https://github.com/cubealgos/create_metered_motor, read-only code, and the issue tracker.
+Source: https://github.com/cubealgos-mods/create_metered_motor.
 Releases: https://modrinth.com/mod/metered-motor.
 
 Development: `just --list`. The specification is `docs/spec/`.
