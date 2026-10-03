@@ -15,7 +15,7 @@
 | Game versions | 26.2 |
 | Dependencies | Create Fly (required), Fabric API (required) |
 | Icon | `icon.png` in this folder: the mod's own tier II brass motor block model on the cubealgos navy badge (`just icon` regenerates it) |
-| Links | Source `https://github.com/cubealgos/create_metered_motor` · Issues `https://github.com/cubealgos/create_metered_motor/issues` · Origin `https://git.cubealgos.de/cubealgos/create_metered_motor` |
+| Links | Source `https://github.com/cubealgos-mods/create_metered_motor` · Issues `https://github.com/cubealgos-mods/create_metered_motor/issues` |
 
 ## Version settings
 
@@ -84,7 +84,7 @@ the mod declares exactly that version).
 
 ### Support
 
-Through the issue tracker only (https://github.com/cubealgos/create_metered_motor/issues), as time
-allows. Source on GitHub, mirrored from the cubealgos Forgejo. Include your Minecraft, Fabric and
+Through the issue tracker only (https://github.com/cubealgos-mods/create_metered_motor/issues), as time
+allows. Source on GitHub. Include your Minecraft, Fabric and
 Create Fly versions, the mod version from the jar name, and the steps that show the problem. MIT
 licensed.

@@ -9,8 +9,8 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/metered-motor",
-    "sources": "https://git.cubealgos.de/cubealgos/create_metered_motor",
-    "issues": "https://github.com/cubealgos/create_metered_motor/issues"
+    "sources": "https://github.com/cubealgos-mods/create_metered_motor",
+    "issues": "https://github.com/cubealgos-mods/create_metered_motor/issues"
   },
   "license": "MIT",
   "environment": "*",
